@@ -5,6 +5,7 @@ One day with introduction to OpenRefine, Github and VosViewer for Librarians at 
 1. [Homepage](homepage.md)
 1. [Program](program.md)
 1. [Preparation](preparation.md)
+1. [Links](links.md)
 
 ## GitHub pages have been used in the creating process. And it makes it easier to share for later:)
 
